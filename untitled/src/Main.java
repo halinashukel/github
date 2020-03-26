@@ -9,6 +9,7 @@ public class Main {
 
         }
         System.out.println("Hello, thdrhd");
+        System.out.println("Hello, commit new2");
 
     }
 }
