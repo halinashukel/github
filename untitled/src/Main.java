@@ -6,8 +6,10 @@ public class Main {
         for(int i=0;i<10; i++){
             System.out.println(i);
         }
-        for(int i=0;i<10; i++){
+        for(int i=0;i<1123; i++){
+            i=+12;
             System.out.println(i);
         }
+
     }
 }
