@@ -3,13 +3,10 @@ public class Main {
         System.out.print("Hello");
         System.out.println("Hello, Galina");
 
-        for(int i=0;i<10; i++){
-            System.out.println(i);
-        }
-        for(int i=0;i<1123; i++){
-            i=+12;
-            System.out.println(i);
-        }
+
+        System.out.println("Hello, thdrhd");
+        System.out.println("Hello, commit new2");        System.out.println("Hello, commit new2");        System.out.println("Hello, commit new2");        System.out.println("Hello, commit new2");        System.out.println("Hello, commit new2");
 
     }
 }
+
